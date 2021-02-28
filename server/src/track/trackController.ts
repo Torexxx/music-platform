@@ -7,6 +7,6 @@ export class TrackController {
   @Get()
   getAll() {
     // return this.tracksService.getAll();
-    return 'GET_ALL';
+    return 'GET_ALL!';
   }
 }
